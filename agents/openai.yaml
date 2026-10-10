@@ -1,0 +1,4 @@
+interface:
+  display_name: "BP解读与投资分析"
+  short_description: "按细分市场核验竞争，并分析单位经济、技术与商业化的VC报告"
+  default_prompt: "Use $analyze-business-plan to analyze this BP, detect internal contradictions, verify each target market and its competitors, model unit economics and customer ROI, validate technology, team and entities, and produce a source-linked investment report."
